@@ -1,0 +1,14 @@
+body{
+background-color:darkblue;
+}
+h1{
+    color: black;
+    font-size: medium
+    text-aling:center;
+}
+
+p{
+    color: dodgerblue;
+    font-size: small;
+    text-align: right;
+}
